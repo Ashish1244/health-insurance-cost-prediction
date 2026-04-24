@@ -149,7 +149,7 @@ pip freeze > requirements.txt
 
 ## 🙌 Author
 
-**Himanshu Singh**
+**Ashish Jadia**
 
 ---
 
